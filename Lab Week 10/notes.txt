@@ -1,0 +1,7 @@
+Line 1: Hello, this is the first line. 
+Line 2: Learning File Handling in C++. 
+Line 3: Task is almost done. 
+Name: Abdul Hadi
+Roll Number: 2025-SE-11
+Name: Abdul Hadi
+Roll Number: 2025-SE-11
